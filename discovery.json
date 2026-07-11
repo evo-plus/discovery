@@ -1,0 +1,18 @@
+{
+  "api": [
+    "api.evoplus.pro",
+    "global-api.evoplus.pro"
+  ],
+  "sso": [
+    "api.evoplus.pro",
+    "global-api.evoplus.pro"
+  ],
+  "ws": [
+    "ws.evoplus.pro",
+    "global-ws.evoplus.pro"
+  ],
+  "site": [
+    "evoplus.pro",
+    "global.evoplus.pro"
+  ]
+}
