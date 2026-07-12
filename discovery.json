@@ -14,5 +14,9 @@
   "site": [
     "evoplus.pro",
     "global.evoplus.pro"
+  ],
+  "cdn": [
+    "cdn.evoplus.pro",
+    "global-cdn.evoplus.pro"
   ]
 }
