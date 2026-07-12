@@ -4,8 +4,8 @@
     "global-api.evoplus.pro"
   ],
   "sso": [
-    "api.evoplus.pro",
-    "global-api.evoplus.pro"
+    "sso.evoplus.pro",
+    "global-sso.evoplus.pro"
   ],
   "ws": [
     "ws.evoplus.pro",
