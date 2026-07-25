@@ -1,5 +1,14 @@
 {
-  "stats:game": "Получение вашей игровой статистики",
-  "stats:session": "Получение вашей игровой сессии",
-  "stats:location": "Получение вашей игровой локации"
+  "stats:game": {
+    "ru": "Получение вашей игровой статистики",
+    "en": "Access to your game statistics"
+  },
+  "stats:session": {
+    "ru": "Получение вашей игровой сессии",
+    "en": "Access to your game session"
+  },
+  "stats:location": {
+    "ru": "Получение вашей игровой локации",
+    "en": "Access to your in-game location"
+  }
 }
