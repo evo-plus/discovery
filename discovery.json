@@ -48,5 +48,11 @@
       "domain": "global-cdn.evoplus.pro",
       "global": true
     }
+  ],
+  "wiki": [
+    {
+      "domain": "wiki.evoplus.pro",
+      "global": false
+    }
   ]
 }

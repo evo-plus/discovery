@@ -28,5 +28,11 @@
       "domain": "cdn.evoplus.gg",
       "global": false
     }
+  ],
+  "wiki": [
+    {
+      "domain": "wiki.evoplus.gg",
+      "global": false
+    }
   ]
 }
