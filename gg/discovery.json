@@ -1,0 +1,32 @@
+{
+  "api": [
+    {
+      "domain": "api.evoplus.gg",
+      "global": false
+    }
+  ],
+  "sso": [
+    {
+      "domain": "sso.evoplus.gg",
+      "global": false
+    }
+  ],
+  "ws": [
+    {
+      "domain": "ws.evoplus.gg",
+      "global": false
+    }
+  ],
+  "site": [
+    {
+      "domain": "evoplus.gg",
+      "global": false
+    }
+  ],
+  "cdn": [
+    {
+      "domain": "cdn.evoplus.gg",
+      "global": false
+    }
+  ]
+}

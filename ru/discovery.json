@@ -1,0 +1,52 @@
+{
+  "api": [
+    {
+      "domain": "api.evoplus.pro",
+      "global": false
+    },
+    {
+      "domain": "global-api.evoplus.pro",
+      "global": true
+    }
+  ],
+  "sso": [
+    {
+      "domain": "sso.evoplus.pro",
+      "global": false
+    },
+    {
+      "domain": "global-sso.evoplus.pro",
+      "global": true
+    }
+  ],
+  "ws": [
+    {
+      "domain": "ws.evoplus.pro",
+      "global": false
+    },
+    {
+      "domain": "global-ws.evoplus.pro",
+      "global": true
+    }
+  ],
+  "site": [
+    {
+      "domain": "evoplus.pro",
+      "global": false
+    },
+    {
+      "domain": "global.evoplus.pro",
+      "global": true
+    }
+  ],
+  "cdn": [
+    {
+      "domain": "cdn.evoplus.pro",
+      "global": false
+    },
+    {
+      "domain": "global-cdn.evoplus.pro",
+      "global": true
+    }
+  ]
+}
